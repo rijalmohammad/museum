@@ -1,0 +1,20 @@
+{
+  "name": "registration_and_login",
+  "version": "1.0.0",
+  "description": "A registration and authentication api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yishak",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "keywords": []
+}
